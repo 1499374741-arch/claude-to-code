@@ -8,21 +8,35 @@
 
 ## 界面速览
 
-从左到右分别是：终端里的 Claude Code、Claude to Code 桌面工作台、Loading 动画选择、背景图片/视频与透明度设置、发送键上方的快速回到最近请求按钮。
+### 1. 终端里的 Claude Code
 
-<p align="center">
-  <img src="docs/images/terminal-claude-code.png" alt="Claude Code in terminal" width="19%">
-  <img src="docs/images/claude-to-code-workbench.png" alt="Claude to Code desktop workbench" width="19%">
-  <img src="docs/images/loading-settings.png" alt="Loading animation settings" width="19%">
-  <img src="docs/images/background-settings.png" alt="Background image video and opacity settings" width="19%">
-  <img src="docs/images/request-jump-dot.png" alt="Request jump dot above send button" width="19%">
-</p>
+Claude Code 原本运行在终端里，信息密度高，也更接近开发者工具本身。
 
-1. 你的终端里的 Claude Code 长这样。
-2. Claude to Code 把它整理成一个桌面工作台。
-3. 支持数十种 Loading 动画选择。
-4. 支持更换任意图片、任意视频背景，并调节透明度。
-5. 发送键上方的红点可以快速跳到最近的一条请求，连续点击可以一路回到顶端。
+<img src="docs/images/terminal-claude-code.png" alt="Claude Code in terminal" width="720">
+
+### 2. Claude to Code 桌面工作台
+
+Claude to Code 把 Claude Code 对话整理成更安静的桌面界面：左侧管理会话，主区域保留对话和关键输出，底部固定输入任务。
+
+<img src="docs/images/claude-to-code-workbench.png" alt="Claude to Code desktop workbench" width="720">
+
+### 3. Loading 动画选择
+
+处理任务时，小 logo 位置可以显示不同 Loading 动画。设置页内置数十种动画样式。
+
+<img src="docs/images/loading-settings.png" alt="Loading animation settings" width="720">
+
+### 4. 背景图片、视频和透明度
+
+对话区支持自定义背景颜色、任意图片和任意视频，也可以调节透明度，让工作区更接近自己的使用习惯。
+
+<img src="docs/images/background-settings.png" alt="Background image video and opacity settings" width="720">
+
+### 5. 快速回到上一条请求
+
+发送键上方的红点用于快速跳到最近的一条用户请求，连续点击可以一路回看更早的请求。
+
+<img src="docs/images/request-jump-dot.png" alt="Request jump dot above send button" width="260">
 
 ## 它是什么
 
