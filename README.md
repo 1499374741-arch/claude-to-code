@@ -6,6 +6,24 @@
 
 > Unofficial desktop shell for Claude Code. Claude and Anthropic are trademarks of Anthropic. This project is not affiliated with or endorsed by Anthropic.
 
+## 界面速览
+
+从左到右分别是：终端里的 Claude Code、Claude to Code 桌面工作台、Loading 动画选择、背景图片/视频与透明度设置、发送键上方的快速回到最近请求按钮。
+
+<p align="center">
+  <img src="docs/images/terminal-claude-code.png" alt="Claude Code in terminal" width="19%">
+  <img src="docs/images/claude-to-code-workbench.png" alt="Claude to Code desktop workbench" width="19%">
+  <img src="docs/images/loading-settings.png" alt="Loading animation settings" width="19%">
+  <img src="docs/images/background-settings.png" alt="Background image video and opacity settings" width="19%">
+  <img src="docs/images/request-jump-dot.png" alt="Request jump dot above send button" width="19%">
+</p>
+
+1. 你的终端里的 Claude Code 长这样。
+2. Claude to Code 把它整理成一个桌面工作台。
+3. 支持数十种 Loading 动画选择。
+4. 支持更换任意图片、任意视频背景，并调节透明度。
+5. 发送键上方的红点可以快速跳到最近的一条请求，连续点击可以一路回到顶端。
+
 ## 它是什么
 
 Claude to Code 是一个面向个人使用的 Claude Code 桌面客户端。
@@ -113,11 +131,13 @@ macOS 下默认存储位置大致在：
 
 ## 下载
 
-正式版本会放在 GitHub Releases：
+最新版本可以直接下载：
 
-```txt
-GitHub Releases -> Claude to Code.app.zip
-```
+[Claude-to-Code-macOS.zip](https://github.com/1499374741-arch/claude-to-code/releases/download/v0.1.0/Claude-to-Code-macOS.zip)
+
+也可以在 GitHub Releases 页面里下载：
+
+[Claude to Code v0.1.0](https://github.com/1499374741-arch/claude-to-code/releases/tag/v0.1.0)
 
 下载后解压，双击打开即可。
 
