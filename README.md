@@ -18,7 +18,7 @@ Claude Code 原本运行在终端里，信息密度高，也更接近开发者�
 
 Claude to Code 把 Claude Code 对话整理成更安静的桌面界面：左侧管理会话，主区域保留对话和关键输出，底部固定输入任务。
 
-<img src="docs/images/claude-to-code-workbench.png" alt="Claude to Code desktop workbench" width="720">
+<img src="docs/images/claude-to-code-empty-workbench.png" alt="Claude to Code desktop workbench" width="720">
 
 ### 3. Loading 动画选择
 
