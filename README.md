@@ -32,6 +32,8 @@ Claude to Code 把 Claude Code 对话整理成更安静的桌面界面：左侧�
 
 <img src="docs/images/background-settings.png" alt="Background image video and opacity settings" width="720">
 
+<img src="docs/images/background-preview.png" alt="Claude to Code custom background preview" width="720">
+
 ### 5. 快速回到上一条请求
 
 发送键上方的红点用于快速跳到最近的一条用户请求，连续点击可以一路回看更早的请求。
